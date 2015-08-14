@@ -6,3 +6,6 @@ Finds dynamic DNS (like no-ip.org) domains from a given list of domains
     
 ## Notes
 The script needs to run from a folder that contains "dynamic-dns.csv".  Just clone the whole repo to the same folder and it'll work
+
+## About us
+http://www.theresponder.co
